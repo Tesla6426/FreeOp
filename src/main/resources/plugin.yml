@@ -31,12 +31,12 @@ commands:
   spectator:
     description: "spectator mode"
     usage: "/spectate"
-    aliases: []
+    aliases: [gmp]
     permission: op.all
     permission-message: "You do not have permission to use this command!"
   adventure:
     description: "adventure mode"
     usage: "/adventure"
-    aliases: [adventure]
+    aliases: [gma]
     permission: op.all
     permission-message: "You do not have permission to use this command!"
